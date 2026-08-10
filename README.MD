@@ -1,4 +1,5 @@
 # Sistema Automatizado de Copias de Seguridad - Shell Scripting
+ALUMNOS: MATHIAS CAYCHO TARAZONA / ROBERTO ESCOBAR SOTELO
 
 ## 📌 Descripción
 
